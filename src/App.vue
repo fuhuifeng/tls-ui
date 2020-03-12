@@ -1,7 +1,6 @@
 <template>
   <div id="app">
       <tls-button></tls-button>
-      changshi
   </div>
 </template>
 
