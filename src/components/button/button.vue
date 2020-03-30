@@ -70,7 +70,7 @@ export default {
     text-align: center;
     box-sizing: border-box;
     outline: none;
-    margin: 0;
+    margin: 0 2px;
     transition: 0.1s;
     font-weight: 500;
     padding: 11px 18px;

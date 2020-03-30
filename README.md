@@ -1,24 +1,6 @@
 # tls-ui
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#### button组件
+| 事件名称 | 触发 | 返回值 |
+|------|------------|------------|
+| handleClick  | 点击          | 点击元素        |
